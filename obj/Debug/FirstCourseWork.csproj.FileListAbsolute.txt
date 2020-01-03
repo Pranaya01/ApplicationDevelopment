@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\FirstCourseWork\bin\Debug\FirstCourseWork.exe.config
+C:\Users\Admin\source\repos\FirstCourseWork\bin\Debug\FirstCourseWork.exe
+C:\Users\Admin\source\repos\FirstCourseWork\bin\Debug\FirstCourseWork.pdb
+C:\Users\Admin\source\repos\FirstCourseWork\obj\Debug\FirstCourseWork.Properties.Resources.resources
+C:\Users\Admin\source\repos\FirstCourseWork\obj\Debug\FirstCourseWork.StudentRegisterForm.resources
+C:\Users\Admin\source\repos\FirstCourseWork\obj\Debug\FirstCourseWork.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FirstCourseWork\obj\Debug\FirstCourseWork.exe
+C:\Users\Admin\source\repos\FirstCourseWork\obj\Debug\FirstCourseWork.pdb
+C:\Users\Admin\source\repos\FirstCourseWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\FirstCourseWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\FirstCourseWork\obj\Debug\FirstCourseWork.csproj.CopyComplete
+C:\Users\Admin\source\repos\FirstCourseWork\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\source\repos\FirstCourseWork\obj\Debug\FirstCourseWork.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FirstCourseWork\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\source\repos\FirstCourseWork\bin\Debug\Microsoft.ReportViewer.WinForms.xml
